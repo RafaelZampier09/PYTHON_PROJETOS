@@ -112,7 +112,7 @@ while True:
 
         else:
             print(extrato)
-            print(f"Saldo disponivel: R${saldo}")
+            print(f"Saldo disponivel: R${saldo:.2f}")
             input(f"Pressione enter para voltar ao menu...")
         
     elif opcao == "q":
