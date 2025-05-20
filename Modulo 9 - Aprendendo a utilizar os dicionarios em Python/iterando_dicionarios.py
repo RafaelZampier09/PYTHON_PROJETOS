@@ -3,6 +3,7 @@ contatos = {
     "josesilva@gmail.com":{"Nome":"Jose", "Sobrenome":"Silva", "Idade": "33"}
 }
 
-print(contatos["rafaelzampier14@gmail"]["Nome"])
-
-# No dicionario aninhado conseguimos incluir um dicionario dentro de outro
+for chave, dados in contatos.items():
+    print(chave, contatos[chave])
+    for item in contatos[chave]:
+        print(item)

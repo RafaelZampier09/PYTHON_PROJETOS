@@ -3,6 +3,7 @@ contatos = {
     "josesilva@gmail.com":{"Nome":"Jose", "Sobrenome":"Silva", "Idade": "33"}
 }
 
-print(contatos["rafaelzampier14@gmail"]["Nome"])
+contatos.clear()
+print(contatos)
 
-# No dicionario aninhado conseguimos incluir um dicionario dentro de outro
+# No metodo clear, ele irá limpar todo o dicionario

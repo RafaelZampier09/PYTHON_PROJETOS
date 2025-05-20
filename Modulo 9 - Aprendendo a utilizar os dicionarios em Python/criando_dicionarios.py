@@ -1,6 +1,6 @@
 pessoa = {"nome": "Rafael", "idade": 22}
 
-pessoa["Telefone"] = "11967878354" # Desta forma adicionamos valor em um dicionario
+pessoa["Telefone"] = "11967878354" # Desta forma adicionamos parametro em um dicionario
 
 print(pessoa)
 

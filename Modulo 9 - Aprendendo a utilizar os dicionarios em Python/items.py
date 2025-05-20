@@ -3,6 +3,12 @@ contatos = {
     "josesilva@gmail.com":{"Nome":"Jose", "Sobrenome":"Silva", "Idade": "33"}
 }
 
-print(contatos["rafaelzampier14@gmail"]["Nome"])
+resultado = contatos.items()
 
-# No dicionario aninhado conseguimos incluir um dicionario dentro de outro
+
+print(resultado)
+
+for itens in resultado:
+    print(itens)
+
+# No itemms ele retorna uma lista de tuplas
