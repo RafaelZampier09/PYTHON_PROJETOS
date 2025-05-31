@@ -1,0 +1,6 @@
+Tarefa de numero 1 | Nome: Comer | Horário/data de registro: 30/05/2025 às 21:53:14 [CONCLUIDA] Dia 30/05/2025 às 21:54:02.
+Tarefa de numero 2 | Nome: Correr | Horário/data de registro: 30/05/2025 às 21:55:29 [CONCLUIDA] Dia 30/05/2025 às 22:15:45.
+Tarefa de numero 3 | Nome: Estudar | Horário/data de registro: 30/05/2025 às 22:08:02 [CONCLUIDA] Dia 30/05/2025 às 22:22:52.
+Tarefa de numero 4 | Nome: Limpar a casa | Horário/data de registro: 30/05/2025 às 22:08:52 [CONCLUIDA] Dia 30/05/2025 às 22:27:32.
+Tarefa de numero 5 | Nome: Beber agua | Horário/data de registro: 30/05/2025 às 22:31:50 [CONCLUIDA] Dia 30/05/2025 às 22:35:31.
+Tarefa de numero 6 | Nome: Jogar | Horário/data de registro: 30/05/2025 às 22:35:22
