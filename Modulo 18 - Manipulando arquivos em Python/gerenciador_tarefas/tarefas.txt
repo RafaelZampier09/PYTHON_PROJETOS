@@ -4,3 +4,4 @@ Tarefa de numero 3 | Nome: Estudar | Horário/data de registro: 30/05/2025 às 2
 Tarefa de numero 4 | Nome: Limpar a casa | Horário/data de registro: 30/05/2025 às 22:08:52 [CONCLUIDA] Dia 30/05/2025 às 22:27:32.
 Tarefa de numero 5 | Nome: Beber agua | Horário/data de registro: 30/05/2025 às 22:31:50 [CONCLUIDA] Dia 30/05/2025 às 22:35:31.
 Tarefa de numero 6 | Nome: Jogar | Horário/data de registro: 30/05/2025 às 22:35:22
+Tarefa de numero 7 | Nome: Organização da casa | Horário/data de registro: 31/05/2025 às 09:40:35 [CONCLUIDA] Dia 31/05/2025 às 09:41:20.
